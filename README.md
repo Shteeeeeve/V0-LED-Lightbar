@@ -8,6 +8,8 @@
 
 Note: The 9030 .STL has two tracks for LEDs -- 90 degrees and 30 degrees allowing for lighting for first layer and midprint. 90 .STL is only the 90 degree single track
 
+Note: Only 1x 1515-Snap .STL is required. Additional may make the part challenging to remove.
+
 ## Parts:
 1. 24V LED Lightstrip \\\ URL: https://tinyurl.com/7axzaff4
 2. 22 AWG Wire
