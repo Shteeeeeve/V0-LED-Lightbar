@@ -6,6 +6,8 @@
 1. 9030-LED-Bar OR 90-LED-Bar
 2. 1515-Snap
 
+Note: Designed around lightstrip linked below. I would suggest printing a test part first to check for fitment of your LED strip & 1515 snap clearance. Snap has a clearance of 0.1mm.
+
 Note: The 9030 .STL has two tracks for LEDs -- 90 degrees and 30 degrees allowing for lighting for first layer and midprint. 90 .STL is only the 90 degree single track
 
 Note: Only 1x 1515-Snap .STL is required. Additional may make the part challenging to remove.
