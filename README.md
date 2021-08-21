@@ -35,4 +35,6 @@ gcode:  SET_PIN PIN=caselight VALUE=.25
 gcode:  SET_PIN PIN=caselight VALUE=1
 ```
 
+![Image 1](Images/IMG_8497.jpeg)
+
 #### Note -- I am using AC Bed with SSR. SSR output on PC12 (PWR-DET) and LED Lights are running off PC9 (BED)
